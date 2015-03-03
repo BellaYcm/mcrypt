@@ -6,7 +6,7 @@
  * Time: 16:45
  */
 class Mcrypt{
-    public function crypt()
+    public function index()
     {
         var_dump($this->encrypt("sdpadsa1233adad","123"));
         var_dump($this->decrypt("jsPa3XAzq/OkkH95AMflYAG9h1aFIkiutiDCkqSRg/muw8hbNzYpENX4G4kdH4KyjadUV7gS/gU3fVMFE4rf25","123"));
